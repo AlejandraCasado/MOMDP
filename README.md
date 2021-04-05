@@ -4,6 +4,6 @@ The maximum diversity problem has been widely studied from both exact and heuris
 
 ## Datasets
 
-We downloaded the instances from the next website: https://grafo.etsii.urjc.es/mdp/
+We downloaded the instances from the next website: https://grafo.etsii.urjc.es/optsicom/mdp/
 
 We got the MDPLIB and used only the GKD set, which includes 145 instances.
